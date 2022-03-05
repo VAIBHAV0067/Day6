@@ -1,0 +1,15 @@
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\obj\Debug\net6.0\Calculation.csproj.AssemblyReference.cache
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\obj\Debug\net6.0\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfoInputs.cache
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\obj\Debug\net6.0\Calculation.AssemblyInfo.cs
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\obj\Debug\net6.0\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\bin\Debug\net6.0\Calculation.exe
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\bin\Debug\net6.0\Calculation.deps.json
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\bin\Debug\net6.0\Calculation.runtimeconfig.json
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\bin\Debug\net6.0\Calculation.dll
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\bin\Debug\net6.0\Calculation.pdb
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\obj\Debug\net6.0\Calculation.dll
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\obj\Debug\net6.0\refint\Calculation.dll
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\obj\Debug\net6.0\Calculation.pdb
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\obj\Debug\net6.0\Calculation.genruntimeconfig.cache
+C:\Users\vaibhav\source\repos\DotNet\Calculation\Calculation\obj\Debug\net6.0\ref\Calculation.dll
